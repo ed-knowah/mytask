@@ -1,2 +1,3 @@
 const file = require('./myModule');
-console.log(file.checkPalindrome("OMO"));
+let string = prompt("enter word to check")
+console.log(file.checkPalindrome(string))
