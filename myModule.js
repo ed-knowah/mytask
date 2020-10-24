@@ -9,5 +9,3 @@ const checkPalindrome =(string) => {
 }
 
  module.exports.checkPalindrome =checkPalindrome;
-
- 
